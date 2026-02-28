@@ -58,7 +58,7 @@ const Auth = () => {
                             }`}
                     >
                         {/* ================= LOGIN ================= */}
-                        <div className="w-1/2 h-full flex flex-col px-8 pb-8">
+                        <div className="w-1/2 h-full flex flex-col p-10">
                             <div className="mb-6">
                                 <h2 className="text-xl font-semibold mb-2">Welcome Back</h2>
                                 <p className="text-sm text-gray-400">
@@ -136,7 +136,7 @@ const Auth = () => {
                         </div>
 
                         {/* ================= REGISTER (UI Only) ================= */}
-                        <div className="w-1/2 h-full flex flex-col px-8 pb-8">
+                        <div className="w-1/2 h-full flex flex-col p-10">
                             <div className="mb-6">
                                 <h2 className="text-xl font-semibold mb-2">Request Access</h2>
                                 <p className="text-sm text-gray-400">
